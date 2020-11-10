@@ -1,0 +1,1531 @@
+{
+    "@odata.context": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/$metadata#Parts",
+    "value": [
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85109",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000431, 01-51204.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51204.prt",
+            "Number": "WCDS000431",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84990",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85110",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000589, 01-51328_inner_race.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51328_inner_race.prt",
+            "Number": "WCDS000589",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84854",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85111",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000204, 01-2_crankshaft.asm, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-2_crankshaft.asm",
+            "Number": "WCDS000204",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84875",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85112",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000397, 01-2_piston.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-2_piston.prt",
+            "Number": "WCDS000397",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84872",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85113",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000231, 01-51000.asm, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51000.asm",
+            "Number": "WCDS000231",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84873",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85114",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000537, 01-51294.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51294.prt",
+            "Number": "WCDS000537",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84789",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85115",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000293, 01-512109.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-512109.prt",
+            "Number": "WCDS000293",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84991",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85116",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000307, 01-512138b.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-512138b.prt",
+            "Number": "WCDS000307",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84941",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85117",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000561, 01-51243.asm, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51243.asm",
+            "Number": "WCDS000561",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84865",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85118",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000310, 01-2_valve_lifter.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-2_valve_lifter.prt",
+            "Number": "WCDS000310",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84885",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85119",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000469, 01-51283.asm, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51283.asm",
+            "Number": "WCDS000469",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84879",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85120",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000208, 01-51317.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51317.prt",
+            "Number": "WCDS000208",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84883",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85121",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000674, 01-51243a.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51243a.prt",
+            "Number": "WCDS000674",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84768",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85122",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000240, 01-51299.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51299.prt",
+            "Number": "WCDS000240",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84857",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85123",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000550, 01-51297d.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51297d.prt",
+            "Number": "WCDS000550",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84926",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85124",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000723, 01-51216_3.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51216_3.prt",
+            "Number": "WCDS000723",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84965",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85125",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000225, 01-51102.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-51102.prt",
+            "Number": "WCDS000225",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84952",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:11:54Z",
+            "ID": "OR:wt.part.WTPart:85126",
+            "LastModified": "2020-11-03T17:11:59Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "component",
+                "Display": "Component"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Drive System",
+            "FolderName": null,
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - WCDS000590, 01-5121101.prt, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "01-5121101.prt",
+            "Number": "WCDS000590",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:84920",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:13:34Z",
+            "ID": "OR:wt.part.WTPart:126612",
+            "LastModified": "2020-11-03T17:13:34Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Power System/Standard Parts",
+            "FolderName": "Standard Parts",
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - D3_0000000160, Wiring Harness, Thermal Management, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "Wiring Harness, Thermal Management",
+            "Number": "D3_0000000160",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:126611",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:13:34Z",
+            "ID": "OR:wt.part.WTPart:126617",
+            "LastModified": "2020-11-03T17:13:34Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Power System/Standard Parts",
+            "FolderName": "Standard Parts",
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - D3_0000000142, Switch, Mushroom, Weatherproof, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "Switch, Mushroom, Weatherproof",
+            "Number": "D3_0000000142",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:126616",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:13:34Z",
+            "ID": "OR:wt.part.WTPart:126622",
+            "LastModified": "2020-11-03T17:13:34Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Power System/Standard Parts",
+            "FolderName": "Standard Parts",
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - D3_0000000099, Kit, Energy Delivery, 5U48FG W/ Batteries, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "Kit, Energy Delivery, 5U48FG W/ Batteries",
+            "Number": "D3_0000000099",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:126621",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:13:34Z",
+            "ID": "OR:wt.part.WTPart:126627",
+            "LastModified": "2020-11-03T17:13:34Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Power System/Standard Parts",
+            "FolderName": "Standard Parts",
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - D3_0000000104, Kit, Energy Delivery, 5U108FG w/Batteries, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "Kit, Energy Delivery, 5U108FG w/Batteries",
+            "Number": "D3_0000000104",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:126626",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:13:34Z",
+            "ID": "OR:wt.part.WTPart:126632",
+            "LastModified": "2020-11-03T17:13:34Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Power System/Standard Parts",
+            "FolderName": "Standard Parts",
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - D3_0000000082, Enclosure Base Assembly, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "Enclosure Base Assembly",
+            "Number": "D3_0000000082",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:126631",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:13:34Z",
+            "ID": "OR:wt.part.WTPart:126637",
+            "LastModified": "2020-11-03T17:13:34Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Power System/Standard Parts",
+            "FolderName": "Standard Parts",
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - D3_0000000224, Converter, DC Voltage, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "Converter, DC Voltage",
+            "Number": "D3_0000000224",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:126636",
+            "View": "Design"
+        },
+        {
+            "CreatedOn": "2020-11-03T17:13:34Z",
+            "ID": "OR:wt.part.WTPart:126642",
+            "LastModified": "2020-11-03T17:13:34Z",
+            "AlternateNumber": null,
+            "AssemblyMode": {
+                "Value": "separable",
+                "Display": "Separable"
+            },
+            "BOMType": null,
+            "CabinetName": "Default",
+            "ChangeStatus": null,
+            "CheckOutStatus": "",
+            "CheckoutState": "Checked in",
+            "Comments": null,
+            "ConfigurableModule": {
+                "Value": "standard",
+                "Display": "No"
+            },
+            "CreatedBy": "Site, Administrator",
+            "DefaultTraceCode": {
+                "Value": "0",
+                "Display": "Untraced"
+            },
+            "DefaultUnit": {
+                "Value": "ea",
+                "Display": "each"
+            },
+            "EndItem": false,
+            "FolderLocation": "/Power System/Standard Parts",
+            "FolderName": "Standard Parts",
+            "GatheringPart": false,
+            "GeneralStatus": null,
+            "Identity": "Part - D3_0000000223, Kit, Energy Delivery, 5T48 w/Batteries, A.1 (Design)",
+            "Latest": true,
+            "LifeCycleTemplateName": "Basic",
+            "ModifiedBy": "Site, Administrator",
+            "Name": "Kit, Energy Delivery, 5T48 w/Batteries",
+            "Number": "D3_0000000223",
+            "ObjectType": "Part",
+            "OrganizationReference": "{\"type\":\"text\"}",
+            "PhantomManufacturingPart": false,
+            "Revision": "A",
+            "ShareStatus": null,
+            "Source": {
+                "Value": "make",
+                "Display": "Make"
+            },
+            "State": {
+                "Value": "INWORK",
+                "Display": "In Work"
+            },
+            "Supersedes": null,
+            "TypeIcon": {
+                "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                "Tooltip": "Part"
+            },
+            "Version": "A.1 (Design)",
+            "VersionID": "VR:wt.part.WTPart:126641",
+            "View": "Design"
+        }
+    ],
+    "@odata.nextLink": "http://bltsp00509.lnties.com/Windchill/servlet/odata/ProdMgmt/Parts?$skiptoken=25"
+}

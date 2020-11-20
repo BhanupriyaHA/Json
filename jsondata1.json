@@ -1,30 +1,264 @@
 {
     "@odata.context": "$metadata#PartStructureItems",
-    "PartId": "OR:wt.part.WTPart:147233",
+    "PartId": "OR:wt.part.WTPart:147396",
     "PartUseId": null,
-    "PartName": "01-2_engine.asm",
-    "PartNumber": "WCDS000594",
+    "PartName": "01-10000.asm",
+    "PartNumber": "WCDS000001",
     "PathId": null,
     "PVTreeId": "/",
     "PVParentTreeId": null,
     "Components": [
         {
-            "PartId": "OR:wt.part.WTPart:85062",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147235",
-            "PartName": "01-2_block_v.prt",
-            "PartNumber": "WCDS000706",
-            "PathId": "370",
-            "PVTreeId": "/370",
+            "PartId": "OR:wt.part.WTPart:85084",
+            "PartUseId": "OR:wt.part.WTPartUsageLink:147402",
+            "PartName": "01-33110.prt",
+            "PartNumber": "WCDS000098",
+            "PathId": "f8efc96c-e6a1-4c6e-b38d-9d2ec2c9dba6",
+            "PVTreeId": "/0:147396-84326-f8efc96c-e6a1-4c6e-b38d-9d2ec2c9dba6",
             "PVParentTreeId": "/",
             "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85062')",
-                "Name": "01-2_block_v.prt",
-                "Number": "WCDS000706"
+                "CreatedOn": "2020-11-03T17:11:54Z",
+                "ID": "OR:wt.part.WTPart:85084",
+                "LastModified": "2020-11-03T17:11:59Z",
+                "AlternateNumber": null,
+                "AssemblyMode": {
+                    "Value": "component",
+                    "Display": "Component"
+                },
+                "BOMType": null,
+                "CabinetName": "Default",
+                "ChangeStatus": null,
+                "CheckOutStatus": "",
+                "CheckoutState": "Checked in",
+                "Comments": null,
+                "ConfigurableModule": {
+                    "Value": "standard",
+                    "Display": "No"
+                },
+                "CreatedBy": "Site, Administrator",
+                "DefaultTraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "DefaultUnit": {
+                    "Value": "ea",
+                    "Display": "each"
+                },
+                "EndItem": false,
+                "FolderLocation": "/Drive System",
+                "FolderName": null,
+                "GatheringPart": false,
+                "GeneralStatus": null,
+                "Identity": "Part - WCDS000098, 01-33110.prt, A.1 (Design)",
+                "Latest": true,
+                "LifeCycleTemplateName": "Basic",
+                "ModifiedBy": "Site, Administrator",
+                "Name": "01-33110.prt",
+                "Number": "WCDS000098",
+                "ObjectType": "Part",
+                "OrganizationReference": "{\"type\":\"text\"}",
+                "PhantomManufacturingPart": false,
+                "Revision": "A",
+                "ShareStatus": null,
+                "Source": {
+                    "Value": "make",
+                    "Display": "Make"
+                },
+                "State": {
+                    "Value": "INWORK",
+                    "Display": "In Work"
+                },
+                "Supersedes": null,
+                "TypeIcon": {
+                    "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                    "Tooltip": "Part"
+                },
+                "Version": "A.1 (Design)",
+                "VersionID": "VR:wt.part.WTPart:84924",
+                "View": "Design"
             },
             "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147235",
-                "LastModified": "2020-11-06T14:17:11Z",
+                "CreatedOn": "2020-11-06T14:48:36Z",
+                "ID": "OR:wt.part.WTPartUsageLink:147402",
+                "LastModified": "2020-11-06T14:48:36Z",
+                "FindNumber": null,
+                "LineNumber": null,
+                "ObjectType": "Part Usage",
+                "PartOccurrenceAssignedExpression": "",
+                "Quantity": 1.0,
+                "ReferenceDesignatorRange": "1",
+                "TraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "Unit": {
+                    "Value": "ea",
+                    "Display": "each"
+                }
+            }
+        },
+        {
+            "PartId": "OR:wt.part.WTPart:85139",
+            "PartUseId": "OR:wt.part.WTPartUsageLink:147403",
+            "PartName": "01-70000.asm",
+            "PartNumber": "WCDS000316",
+            "PathId": "4c76bccb-11b8-417a-b591-adf8fab64f2e",
+            "PVTreeId": "/0:147396-84454-4c76bccb-11b8-417a-b591-adf8fab64f2e",
+            "PVParentTreeId": "/",
+            "Part": {
+                "CreatedOn": "2020-11-03T17:11:54Z",
+                "ID": "OR:wt.part.WTPart:85139",
+                "LastModified": "2020-11-03T17:11:59Z",
+                "AlternateNumber": null,
+                "AssemblyMode": {
+                    "Value": "separable",
+                    "Display": "Separable"
+                },
+                "BOMType": null,
+                "CabinetName": "Default",
+                "ChangeStatus": null,
+                "CheckOutStatus": "",
+                "CheckoutState": "Checked in",
+                "Comments": null,
+                "ConfigurableModule": {
+                    "Value": "standard",
+                    "Display": "No"
+                },
+                "CreatedBy": "Site, Administrator",
+                "DefaultTraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "DefaultUnit": {
+                    "Value": "ea",
+                    "Display": "each"
+                },
+                "EndItem": false,
+                "FolderLocation": "/Drive System",
+                "FolderName": null,
+                "GatheringPart": false,
+                "GeneralStatus": null,
+                "Identity": "Part - WCDS000316, 01-70000.asm, A.1 (Design)",
+                "Latest": true,
+                "LifeCycleTemplateName": "Basic",
+                "ModifiedBy": "Site, Administrator",
+                "Name": "01-70000.asm",
+                "Number": "WCDS000316",
+                "ObjectType": "Part",
+                "OrganizationReference": "{\"type\":\"text\"}",
+                "PhantomManufacturingPart": false,
+                "Revision": "A",
+                "ShareStatus": null,
+                "Source": {
+                    "Value": "make",
+                    "Display": "Make"
+                },
+                "State": {
+                    "Value": "INWORK",
+                    "Display": "In Work"
+                },
+                "Supersedes": null,
+                "TypeIcon": {
+                    "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                    "Tooltip": "Part"
+                },
+                "Version": "A.1 (Design)",
+                "VersionID": "VR:wt.part.WTPart:84961",
+                "View": "Design"
+            },
+            "PartUse": {
+                "CreatedOn": "2020-11-06T14:48:36Z",
+                "ID": "OR:wt.part.WTPartUsageLink:147403",
+                "LastModified": "2020-11-06T14:48:36Z",
+                "FindNumber": null,
+                "LineNumber": null,
+                "ObjectType": "Part Usage",
+                "PartOccurrenceAssignedExpression": "",
+                "Quantity": 1.0,
+                "ReferenceDesignatorRange": "3",
+                "TraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "Unit": {
+                    "Value": "ea",
+                    "Display": "each"
+                }
+            }
+        },
+        {
+            "PartId": "OR:wt.part.WTPart:85058",
+            "PartUseId": "OR:wt.part.WTPartUsageLink:147400",
+            "PartName": "01-50000.asm",
+            "PartNumber": "WCDS000465",
+            "PathId": "7dd39fd4-4d6b-440c-97a3-5cd7e71e7d9d",
+            "PVTreeId": "/0:147396-84343-7dd39fd4-4d6b-440c-97a3-5cd7e71e7d9d",
+            "PVParentTreeId": "/",
+            "Part": {
+                "CreatedOn": "2020-11-03T17:11:54Z",
+                "ID": "OR:wt.part.WTPart:85058",
+                "LastModified": "2020-11-03T17:11:59Z",
+                "AlternateNumber": null,
+                "AssemblyMode": {
+                    "Value": "separable",
+                    "Display": "Separable"
+                },
+                "BOMType": null,
+                "CabinetName": "Default",
+                "ChangeStatus": null,
+                "CheckOutStatus": "",
+                "CheckoutState": "Checked in",
+                "Comments": null,
+                "ConfigurableModule": {
+                    "Value": "standard",
+                    "Display": "No"
+                },
+                "CreatedBy": "Site, Administrator",
+                "DefaultTraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "DefaultUnit": {
+                    "Value": "ea",
+                    "Display": "each"
+                },
+                "EndItem": false,
+                "FolderLocation": "/Drive System",
+                "FolderName": null,
+                "GatheringPart": false,
+                "GeneralStatus": null,
+                "Identity": "Part - WCDS000465, 01-50000.asm, A.1 (Design)",
+                "Latest": true,
+                "LifeCycleTemplateName": "Basic",
+                "ModifiedBy": "Site, Administrator",
+                "Name": "01-50000.asm",
+                "Number": "WCDS000465",
+                "ObjectType": "Part",
+                "OrganizationReference": "{\"type\":\"text\"}",
+                "PhantomManufacturingPart": false,
+                "Revision": "A",
+                "ShareStatus": null,
+                "Source": {
+                    "Value": "make",
+                    "Display": "Make"
+                },
+                "State": {
+                    "Value": "INWORK",
+                    "Display": "In Work"
+                },
+                "Supersedes": null,
+                "TypeIcon": {
+                    "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                    "Tooltip": "Part"
+                },
+                "Version": "A.1 (Design)",
+                "VersionID": "VR:wt.part.WTPart:84983",
+                "View": "Design"
+            },
+            "PartUse": {
+                "CreatedOn": "2020-11-06T14:48:36Z",
+                "ID": "OR:wt.part.WTPartUsageLink:147400",
+                "LastModified": "2020-11-06T14:48:36Z",
                 "FindNumber": null,
                 "LineNumber": null,
                 "ObjectType": "Part Usage",
@@ -39,48 +273,83 @@
                     "Value": "ea",
                     "Display": "each"
                 }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147255",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 1.0E-23,
-                    "PointY": -0.09,
-                    "PointZ": 0.1715,
-                    "PointUnit": "m",
-                    "AngleX": 3.141592653589793,
-                    "AngleY": -0.0,
-                    "AngleZ": 1.5707963267948966,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
             }
         },
         {
-            "PartId": "OR:wt.part.WTPart:148415",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147237",
-            "PartName": "head_mirror.asm",
-            "PartNumber": "WCDS000147",
-            "PathId": "188",
-            "PVTreeId": "/188",
+            "PartId": "OR:wt.part.WTPart:85138",
+            "PartUseId": "OR:wt.part.WTPartUsageLink:147398",
+            "PartName": "01-33100.prt",
+            "PartNumber": "WCDS000334",
+            "PathId": "8113bbd0-c56c-4559-85b5-6d1cd68dfe1e",
+            "PVTreeId": "/0:147396-84233-8113bbd0-c56c-4559-85b5-6d1cd68dfe1e",
             "PVParentTreeId": "/",
             "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:148415')",
-                "Name": "head_mirror.asm",
-                "Number": "WCDS000147"
+                "CreatedOn": "2020-11-03T17:11:54Z",
+                "ID": "OR:wt.part.WTPart:85138",
+                "LastModified": "2020-11-03T17:11:59Z",
+                "AlternateNumber": null,
+                "AssemblyMode": {
+                    "Value": "component",
+                    "Display": "Component"
+                },
+                "BOMType": null,
+                "CabinetName": "Default",
+                "ChangeStatus": null,
+                "CheckOutStatus": "",
+                "CheckoutState": "Checked in",
+                "Comments": null,
+                "ConfigurableModule": {
+                    "Value": "standard",
+                    "Display": "No"
+                },
+                "CreatedBy": "Site, Administrator",
+                "DefaultTraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "DefaultUnit": {
+                    "Value": "ea",
+                    "Display": "each"
+                },
+                "EndItem": false,
+                "FolderLocation": "/Drive System",
+                "FolderName": null,
+                "GatheringPart": false,
+                "GeneralStatus": null,
+                "Identity": "Part - WCDS000334, 01-33100.prt, A.1 (Design)",
+                "Latest": true,
+                "LifeCycleTemplateName": "Basic",
+                "ModifiedBy": "Site, Administrator",
+                "Name": "01-33100.prt",
+                "Number": "WCDS000334",
+                "ObjectType": "Part",
+                "OrganizationReference": "{\"type\":\"text\"}",
+                "PhantomManufacturingPart": false,
+                "Revision": "A",
+                "ShareStatus": null,
+                "Source": {
+                    "Value": "make",
+                    "Display": "Make"
+                },
+                "State": {
+                    "Value": "INWORK",
+                    "Display": "In Work"
+                },
+                "Supersedes": null,
+                "TypeIcon": {
+                    "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                    "Tooltip": "Part"
+                },
+                "Version": "A.1 (Design)",
+                "VersionID": "VR:wt.part.WTPart:84814",
+                "View": "Design"
             },
             "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147237",
-                "LastModified": "2020-11-06T14:17:11Z",
+                "CreatedOn": "2020-11-06T14:48:36Z",
+                "ID": "OR:wt.part.WTPartUsageLink:147398",
+                "LastModified": "2020-11-06T14:48:36Z",
                 "FindNumber": null,
-                "LineNumber": 10,
+                "LineNumber": null,
                 "ObjectType": "Part Usage",
                 "PartOccurrenceAssignedExpression": "",
                 "Quantity": 1.0,
@@ -93,48 +362,83 @@
                     "Value": "ea",
                     "Display": "each"
                 }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147260",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": -0.1548563850798539,
-                    "PointY": 0.05919953083036154,
-                    "PointZ": 0.1715,
-                    "PointUnit": "m",
-                    "AngleX": 0.0,
-                    "AngleY": -0.0,
-                    "AngleZ": 0.7853981633974483,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
             }
         },
         {
-            "PartId": "OR:wt.part.WTPart:149025",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147243",
-            "PartName": "tensioner_copy.asm",
-            "PartNumber": "WCDS000690",
-            "PathId": "554",
-            "PVTreeId": "/554",
+            "PartId": "OR:wt.part.WTPart:85105",
+            "PartUseId": "OR:wt.part.WTPartUsageLink:147399",
+            "PartName": "01-20000.asm",
+            "PartNumber": "WCDS000534",
+            "PathId": "d9c98c03-9728-4803-a909-ec2efa233a21",
+            "PVTreeId": "/0:147396-84366-d9c98c03-9728-4803-a909-ec2efa233a21",
             "PVParentTreeId": "/",
             "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:149025')",
-                "Name": "tensioner_copy.asm",
-                "Number": "WCDS000690"
+                "CreatedOn": "2020-11-03T17:11:54Z",
+                "ID": "OR:wt.part.WTPart:85105",
+                "LastModified": "2020-11-03T17:11:59Z",
+                "AlternateNumber": null,
+                "AssemblyMode": {
+                    "Value": "separable",
+                    "Display": "Separable"
+                },
+                "BOMType": null,
+                "CabinetName": "Default",
+                "ChangeStatus": null,
+                "CheckOutStatus": "",
+                "CheckoutState": "Checked in",
+                "Comments": null,
+                "ConfigurableModule": {
+                    "Value": "standard",
+                    "Display": "No"
+                },
+                "CreatedBy": "Site, Administrator",
+                "DefaultTraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "DefaultUnit": {
+                    "Value": "ea",
+                    "Display": "each"
+                },
+                "EndItem": false,
+                "FolderLocation": "/Drive System",
+                "FolderName": null,
+                "GatheringPart": false,
+                "GeneralStatus": null,
+                "Identity": "Part - WCDS000534, 01-20000.asm, A.1 (Design)",
+                "Latest": true,
+                "LifeCycleTemplateName": "Basic",
+                "ModifiedBy": "Site, Administrator",
+                "Name": "01-20000.asm",
+                "Number": "WCDS000534",
+                "ObjectType": "Part",
+                "OrganizationReference": "{\"type\":\"text\"}",
+                "PhantomManufacturingPart": false,
+                "Revision": "A",
+                "ShareStatus": null,
+                "Source": {
+                    "Value": "make",
+                    "Display": "Make"
+                },
+                "State": {
+                    "Value": "INWORK",
+                    "Display": "In Work"
+                },
+                "Supersedes": null,
+                "TypeIcon": {
+                    "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                    "Tooltip": "Part"
+                },
+                "Version": "A.1 (Design)",
+                "VersionID": "VR:wt.part.WTPart:84745",
+                "View": "Design"
             },
             "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147243",
-                "LastModified": "2020-11-06T14:17:11Z",
+                "CreatedOn": "2020-11-06T14:48:36Z",
+                "ID": "OR:wt.part.WTPartUsageLink:147399",
+                "LastModified": "2020-11-06T14:48:36Z",
                 "FindNumber": null,
-                "LineNumber": 120,
+                "LineNumber": null,
                 "ObjectType": "Part Usage",
                 "PartOccurrenceAssignedExpression": "",
                 "Quantity": 1.0,
@@ -147,48 +451,172 @@
                     "Value": "ea",
                     "Display": "each"
                 }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147250",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": -0.0786729636073747,
-                    "PointY": 0.1050432391725874,
-                    "PointZ": 0.23950000000000002,
-                    "PointUnit": "m",
-                    "AngleX": 3.141592653589793,
-                    "AngleY": -0.0,
-                    "AngleZ": 0.3581850046210523,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
             }
         },
         {
-            "PartId": "OR:wt.part.WTPart:85219",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147236",
-            "PartName": "v8_timing_chain.prt",
-            "PartNumber": "WCDS000384",
-            "PathId": "633",
-            "PVTreeId": "/633",
+            "PartId": "OR:wt.part.WTPart:85239",
+            "PartUseId": "OR:wt.part.WTPartUsageLink:147401",
+            "PartName": "01-40000.asm",
+            "PartNumber": "WCDS000124",
+            "PathId": "714b35fa-c9c9-490d-9b6e-e0ea08497ce9",
+            "PVTreeId": "/0:147396-84360-714b35fa-c9c9-490d-9b6e-e0ea08497ce9",
             "PVParentTreeId": "/",
             "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85219')",
-                "Name": "v8_timing_chain.prt",
-                "Number": "WCDS000384"
+                "CreatedOn": "2020-11-03T17:11:54Z",
+                "ID": "OR:wt.part.WTPart:85239",
+                "LastModified": "2020-11-03T17:11:59Z",
+                "AlternateNumber": null,
+                "AssemblyMode": {
+                    "Value": "separable",
+                    "Display": "Separable"
+                },
+                "BOMType": null,
+                "CabinetName": "Default",
+                "ChangeStatus": null,
+                "CheckOutStatus": "",
+                "CheckoutState": "Checked in",
+                "Comments": null,
+                "ConfigurableModule": {
+                    "Value": "standard",
+                    "Display": "No"
+                },
+                "CreatedBy": "Site, Administrator",
+                "DefaultTraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "DefaultUnit": {
+                    "Value": "ea",
+                    "Display": "each"
+                },
+                "EndItem": false,
+                "FolderLocation": "/Drive System",
+                "FolderName": null,
+                "GatheringPart": false,
+                "GeneralStatus": null,
+                "Identity": "Part - WCDS000124, 01-40000.asm, A.1 (Design)",
+                "Latest": true,
+                "LifeCycleTemplateName": "Basic",
+                "ModifiedBy": "Site, Administrator",
+                "Name": "01-40000.asm",
+                "Number": "WCDS000124",
+                "ObjectType": "Part",
+                "OrganizationReference": "{\"type\":\"text\"}",
+                "PhantomManufacturingPart": false,
+                "Revision": "A",
+                "ShareStatus": null,
+                "Source": {
+                    "Value": "make",
+                    "Display": "Make"
+                },
+                "State": {
+                    "Value": "INWORK",
+                    "Display": "In Work"
+                },
+                "Supersedes": null,
+                "TypeIcon": {
+                    "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                    "Tooltip": "Part"
+                },
+                "Version": "A.1 (Design)",
+                "VersionID": "VR:wt.part.WTPart:85021",
+                "View": "Design"
             },
             "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147236",
-                "LastModified": "2020-11-06T14:17:11Z",
+                "CreatedOn": "2020-11-06T14:48:36Z",
+                "ID": "OR:wt.part.WTPartUsageLink:147401",
+                "LastModified": "2020-11-06T14:48:36Z",
                 "FindNumber": null,
-                "LineNumber": 50,
+                "LineNumber": null,
+                "ObjectType": "Part Usage",
+                "PartOccurrenceAssignedExpression": "",
+                "Quantity": 1.0,
+                "ReferenceDesignatorRange": "2",
+                "TraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "Unit": {
+                    "Value": "ea",
+                    "Display": "each"
+                }
+            }
+        },
+        {
+            "PartId": "OR:wt.part.WTPart:85063",
+            "PartUseId": "OR:wt.part.WTPartUsageLink:147404",
+            "PartName": "01-31000.asm",
+            "PartNumber": "WCDS000542",
+            "PathId": "37066bf1-f890-4cf9-9574-4c28512c890e",
+            "PVTreeId": "/0:147396-84331-37066bf1-f890-4cf9-9574-4c28512c890e",
+            "PVParentTreeId": "/",
+            "Part": {
+                "CreatedOn": "2020-11-03T17:11:54Z",
+                "ID": "OR:wt.part.WTPart:85063",
+                "LastModified": "2020-11-03T17:11:59Z",
+                "AlternateNumber": null,
+                "AssemblyMode": {
+                    "Value": "separable",
+                    "Display": "Separable"
+                },
+                "BOMType": null,
+                "CabinetName": "Default",
+                "ChangeStatus": null,
+                "CheckOutStatus": "",
+                "CheckoutState": "Checked in",
+                "Comments": null,
+                "ConfigurableModule": {
+                    "Value": "standard",
+                    "Display": "No"
+                },
+                "CreatedBy": "Site, Administrator",
+                "DefaultTraceCode": {
+                    "Value": "0",
+                    "Display": "Untraced"
+                },
+                "DefaultUnit": {
+                    "Value": "ea",
+                    "Display": "each"
+                },
+                "EndItem": false,
+                "FolderLocation": "/Drive System",
+                "FolderName": null,
+                "GatheringPart": false,
+                "GeneralStatus": null,
+                "Identity": "Part - WCDS000542, 01-31000.asm, A.1 (Design)",
+                "Latest": true,
+                "LifeCycleTemplateName": "Basic",
+                "ModifiedBy": "Site, Administrator",
+                "Name": "01-31000.asm",
+                "Number": "WCDS000542",
+                "ObjectType": "Part",
+                "OrganizationReference": "{\"type\":\"text\"}",
+                "PhantomManufacturingPart": false,
+                "Revision": "A",
+                "ShareStatus": null,
+                "Source": {
+                    "Value": "make",
+                    "Display": "Make"
+                },
+                "State": {
+                    "Value": "INWORK",
+                    "Display": "In Work"
+                },
+                "Supersedes": null,
+                "TypeIcon": {
+                    "Path": "http://bltsp00509.lnties.com/Windchill/wtcore/images/part.gif",
+                    "Tooltip": "Part"
+                },
+                "Version": "A.1 (Design)",
+                "VersionID": "VR:wt.part.WTPart:84962",
+                "View": "Design"
+            },
+            "PartUse": {
+                "CreatedOn": "2020-11-06T14:48:36Z",
+                "ID": "OR:wt.part.WTPartUsageLink:147404",
+                "LastModified": "2020-11-06T14:48:36Z",
+                "FindNumber": null,
+                "LineNumber": null,
                 "ObjectType": "Part Usage",
                 "PartOccurrenceAssignedExpression": "",
                 "Quantity": 1.0,
@@ -201,513 +629,6 @@
                     "Value": "ea",
                     "Display": "each"
                 }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147257",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 9.85356885799339E-24,
-                    "PointY": -0.09,
-                    "PointZ": 0.16697499999999998,
-                    "PointUnit": "m",
-                    "AngleX": 3.141592653589793,
-                    "AngleY": -0.0,
-                    "AngleZ": 1.546880026325145,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85192",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147240",
-            "PartName": "01-2-timing-cover.prt",
-            "PartNumber": "WCDS000474",
-            "PathId": "442",
-            "PVTreeId": "/442",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85192')",
-                "Name": "01-2-timing-cover.prt",
-                "Number": "WCDS000474"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147240",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 100,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147253",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 0.0,
-                    "PointY": -0.09,
-                    "PointZ": 0.2555,
-                    "PointUnit": "m",
-                    "AngleX": 0.0,
-                    "AngleY": -0.0,
-                    "AngleZ": 0.0,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:149354",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147244",
-            "PartName": "tensioner.asm",
-            "PartNumber": "WCDS000601",
-            "PathId": "383",
-            "PVTreeId": "/383",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:149354')",
-                "Name": "tensioner.asm",
-                "Number": "WCDS000601"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147244",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 110,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147249",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 0.0522154149133567,
-                    "PointY": 0.06016751988322349,
-                    "PointZ": 0.23950000000000002,
-                    "PointUnit": "m",
-                    "AngleX": 3.141592653589793,
-                    "AngleY": -0.0,
-                    "AngleZ": 2.4343418561289107,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85067",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147241",
-            "PartName": "01-2_head.asm",
-            "PartNumber": "WCDS000159",
-            "PathId": "385",
-            "PVTreeId": "/385",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85067')",
-                "Name": "01-2_head.asm",
-                "Number": "WCDS000159"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147241",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 20,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147258",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 0.15485638507985391,
-                    "PointY": 0.05919953083036154,
-                    "PointZ": 0.1515,
-                    "PointUnit": "m",
-                    "AngleX": 3.141592653589793,
-                    "AngleY": -0.0,
-                    "AngleZ": 2.356194490192345,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85077",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147239",
-            "PartName": "water_pump_housing.prt",
-            "PartNumber": "WCDS000451",
-            "PathId": "372",
-            "PVTreeId": "/372",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85077')",
-                "Name": "water_pump_housing.prt",
-                "Number": "WCDS000451"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147239",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 70,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147259",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 0.16662820958453023,
-                    "PointY": -0.0251229528261344,
-                    "PointZ": 0.2545,
-                    "PointUnit": "m",
-                    "AngleX": 0.0,
-                    "AngleY": -0.0,
-                    "AngleZ": -0.7853981633974483,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85043",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147238",
-            "PartName": "oil_pan.asm",
-            "PartNumber": "WCDS000432",
-            "PathId": "444",
-            "PVTreeId": "/444",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85043')",
-                "Name": "oil_pan.asm",
-                "Number": "WCDS000432"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147238",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 60,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147248",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 0.0,
-                    "PointY": -0.12,
-                    "PointZ": 0.1715,
-                    "PointUnit": "m",
-                    "AngleX": 0.0,
-                    "AngleY": -0.0,
-                    "AngleZ": 0.0,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85267",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147242",
-            "PartName": "power_steering_pump.prt",
-            "PartNumber": "WCDS000525",
-            "PathId": "452",
-            "PVTreeId": "/452",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85267')",
-                "Name": "power_steering_pump.prt",
-                "Number": "WCDS000525"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147242",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 90,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147256",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": -0.21928112400000002,
-                    "PointY": -0.12,
-                    "PointZ": 0.22639104426360435,
-                    "PointUnit": "m",
-                    "AngleX": 1.5707963267948966,
-                    "AngleY": -0.0,
-                    "AngleZ": 3.141592653589793,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85210",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147246",
-            "PartName": "v8_timing_chain_copy.prt",
-            "PartNumber": "WCDS000463",
-            "PathId": "66",
-            "PVTreeId": "/66",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85210')",
-                "Name": "v8_timing_chain_copy.prt",
-                "Number": "WCDS000463"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147246",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 80,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147252",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": 1.0146431142006612E-23,
-                    "PointY": -0.09,
-                    "PointZ": 0.17149999999999999,
-                    "PointUnit": "m",
-                    "AngleX": 3.141592653589793,
-                    "AngleY": -0.0,
-                    "AngleZ": 1.5947126272646484,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85049",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147247",
-            "PartName": "sqb010.prt",
-            "PartNumber": "WCDS000352",
-            "PathId": "406",
-            "PVTreeId": "/406",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85049')",
-                "Name": "sqb010.prt",
-                "Number": "WCDS000352"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147247",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 40,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147254",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": -6.123233995736766E-24,
-                    "PointY": -0.05968265533527054,
-                    "PointZ": 0.34695,
-                    "PointUnit": "m",
-                    "AngleX": 3.141592653589793,
-                    "AngleY": -0.0,
-                    "AngleZ": 3.141592653589793,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
-            }
-        },
-        {
-            "PartId": "OR:wt.part.WTPart:85111",
-            "PartUseId": "OR:wt.part.WTPartUsageLink:147245",
-            "PartName": "01-2_crankshaft.asm",
-            "PartNumber": "WCDS000204",
-            "PathId": "205",
-            "PVTreeId": "/205",
-            "PVParentTreeId": "/",
-            "Part": {
-                "@odata.id": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/Parts('OR:wt.part.WTPart:85111')",
-                "Name": "01-2_crankshaft.asm",
-                "Number": "WCDS000204"
-            },
-            "PartUse": {
-                "CreatedOn": "2020-11-06T14:17:11Z",
-                "ID": "OR:wt.part.WTPartUsageLink:147245",
-                "LastModified": "2020-11-06T14:17:11Z",
-                "FindNumber": null,
-                "LineNumber": 30,
-                "ObjectType": "Part Usage",
-                "PartOccurrenceAssignedExpression": "",
-                "Quantity": 1.0,
-                "ReferenceDesignatorRange": "",
-                "TraceCode": {
-                    "Value": "0",
-                    "Display": "Untraced"
-                },
-                "Unit": {
-                    "Value": "ea",
-                    "Display": "each"
-                }
-            },
-            "Occurrence": {
-                "CreatedOn": "2020-11-06T14:17:12Z",
-                "ID": "OR:wt.part.PartUsesOccurrence:147251",
-                "LastModified": "2020-11-06T14:17:12Z",
-                "BuildStatus": {
-                    "Value": "built",
-                    "Display": "Completed"
-                },
-                "ComponentID": null,
-                "Location": {
-                    "PointX": -6.123233995736766E-24,
-                    "PointY": -0.09,
-                    "PointZ": 0.2315,
-                    "PointUnit": "m",
-                    "AngleX": 0.0,
-                    "AngleY": 1.5707963267948966,
-                    "AngleZ": 0.0,
-                    "AngleUnit": "r"
-                },
-                "ReferenceDesignator": null
             }
         }
     ]

@@ -1,5 +1,4 @@
-[
-  {
+{
     "@odata.context": "$metadata#PartStructureItems",
     "PartId": "OR:wt.part.WTPart:147233",
     "PartUseId": null,
@@ -713,4 +712,3 @@
       }
     ]
   }
-]

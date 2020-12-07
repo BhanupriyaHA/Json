@@ -1,6 +1,4 @@
-{
-    "@odata.context": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v4/ProdMgmt/$metadata#Parts",
-    "value": [
+ [
         {
             "CreatedOn": "2020-11-03T17:11:54Z",
             "ID": "OR:wt.part.WTPart:85109",
@@ -1526,6 +1524,4 @@
             "VersionID": "VR:wt.part.WTPart:126641",
             "View": "Design"
         }
-    ],
-    "@odata.nextLink": "http://bltsp00509.lnties.com/Windchill/servlet/odata/ProdMgmt/Parts?$skiptoken=25"
-}
+    ]
